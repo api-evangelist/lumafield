@@ -1,0 +1,84 @@
+# Lumafield Support Documentation
+
+## Docs
+
+- [Neptune Auto Scan Settings Guide](https://support.lumafield.com/neptune/neptune-auto-scan-settings-guide.md): Optimize your scans with Auto Scan
+- [Scanning Electronics Quickstart](https://support.lumafield.com/neptune/neptune-electronics-guidance.md): Practical Guidance for X-ray CT Scanning Electronics.
+- [Expanded Scan Volume Quickstart](https://support.lumafield.com/neptune/neptune-expanded-volume.md): How to use the offset motion axis to scan new objects.
+- [Neptune Fixturing Guide](https://support.lumafield.com/neptune/neptune-fixturing-guide.md): Stabilize your part and minimize scan artifacts
+- [Neptune Machine Initialization](https://support.lumafield.com/neptune/neptune-initialization.md): Turn on and start-up your scanner
+- [Neptune Interlock and Indicator Functional Tests](https://support.lumafield.com/neptune/neptune-interlock-tests.md): The manual for conducting Neptune Scanner interlock and indicator functional tests.
+- [Neptune Introduction](https://support.lumafield.com/neptune/neptune-intro.md): Lumafield's flagship scanner
+- [Neptune Microfocus Quickstart](https://support.lumafield.com/neptune/neptune-microfocus-quickstart.md): Getting started with your Neptune Microfocus.
+- [Neptune Positioning Guide](https://support.lumafield.com/neptune/neptune-positioning-guide.md): Optimize resolution and ensure hardware safety
+- [Neptune Preventative Maintenance](https://support.lumafield.com/neptune/neptune-preventative-maintenance.md): Maintenance schedule and inspection guides
+- [Neptune Scan and Upload Process](https://support.lumafield.com/neptune/neptune-scanning-and-uploading.md): From 2D projections to 3D volumes
+- [What UPSes are compatible with Neptune?](https://support.lumafield.com/neptune/neptune-ups-options.md): For additional reliability, Neptune may be plugged into a UPS. Here are some options that Lumafield has tested.
+- [Neptune User Manual](https://support.lumafield.com/neptune/neptune-user-manual.md): The digital version of the manual that ships with every Neptune.
+- [On-Prem Voyager Restart Instructions](https://support.lumafield.com/neptune/voyager-on-prem-power.md): Restart your On-Prem system to resolve common issues
+- [Analysis Modules](https://support.lumafield.com/platform/analysis-modules.md): Expand your analysis capabilities
+- [Analyzing Your First Scan](https://support.lumafield.com/platform/analyzing-first-scan.md): Use Voyager to understand your parts
+- [First Steps](https://support.lumafield.com/platform/first-steps.md): Everything you need to do before your first scan
+- [Glossary](https://support.lumafield.com/platform/glossary.md): Key Terms across Lumafield
+- [Introduction](https://support.lumafield.com/platform/introduction.md): Welcome to Docs, Lumafield's knowledge base
+- [Joining an Organization](https://support.lumafield.com/platform/joining-an-organization.md): How to join your team in Voyager
+- [Monthly Highlights](https://support.lumafield.com/platform/monthly-highlights.md): Summary of monthly updates across the platform.
+- [Organization, Workspaces, and Members](https://support.lumafield.com/platform/organization-workspaces-and-members.md): Organizations are structured to help teams collaborate effectively while maintaining appropriate access controls
+- [Regulatory Requirements](https://support.lumafield.com/platform/regulatory.md): Information to know before you start scanning
+- [Running Your First Scan](https://support.lumafield.com/platform/running-first-scan.md): Set up scans on your Neptune
+- [Scanner Modules](https://support.lumafield.com/platform/scanner-modules.md): Expand your Scanner Capabilities
+- [Release Notes - Scanner Software](https://support.lumafield.com/platform/scanner-software-release-notes.md): Detailed version release notes for Scanner Software.
+- [Release Notes - Voyager](https://support.lumafield.com/platform/voyager-release-notes.md): Detailed version release notes for Voyager.
+- [Analysis Recipes](https://support.lumafield.com/recipes/analysis-recipes.md): Analysis Recipes are Lumafield's solution to automated scan processing.
+- [Recipes Intro](https://support.lumafield.com/recipes/recipes-intro.md): End to End Automation
+- [Scan Recipes](https://support.lumafield.com/recipes/scan-recipes.md): Use scan recipes to achieve repeatable scans and inspection routines for batch and high volume scanning.
+- [Resource Management](https://support.lumafield.com/storage.md): Usage-based storage and tokens across cloud and on‑prem
+- [Triton Introduction](https://support.lumafield.com/triton/triton-intro.md): High Volume Scanning
+- [Triton Pallet Fixtures](https://support.lumafield.com/triton/triton-pallet-fixtures.md): Custom fixturing for your application
+- [Triton User Manual](https://support.lumafield.com/triton/triton-user-manual.md): The digital version of the manual that ships with every Triton.
+- [Uplink](https://support.lumafield.com/uplink.md): Easily store, visualize, and analyze data from any CT scanner in Voyager. Make your volumetric data and analyses accessible to your broader team, anywhere, at any time.
+- [Resource Management (Cloud)](https://support.lumafield.com/voyager/resource-management-cloud.md): Understand TB capacity, Tokens, and project lifecycle in cloud environments
+- [Resource Management (On-Prem)](https://support.lumafield.com/voyager/resource-management-on-prem.md): Set sensible TB budgets and understand project lifecycle on on‑prem systems
+- [Video Tutorials](https://support.lumafield.com/voyager/voyager-analyze-quickstart.md): An introduction to the features and workflows of Lumafield's software.
+- [Animation Tool](https://support.lumafield.com/voyager/voyager-animation-tool.md): Create dynamic visualizations of orbiting and scrubbing through scan data
+- [Axis of Rotation Correction](https://support.lumafield.com/voyager/voyager-aorc.md): Correct doubling by reconstruction with an Axis of Rotation Correction (AoRC)
+- [3D Auto-Dimensioning](https://support.lumafield.com/voyager/voyager-auto-dimensioning.md): Precision GD&T evaluation tools powered by Lumafield Voyager
+- [Beam Hardening Correction](https://support.lumafield.com/voyager/voyager-bhc.md): Use BHC to correct for beam hardening artifacts and reduce streaking artifacts in the Voyager software.
+- [Bookmark Tool](https://support.lumafield.com/voyager/voyager-bookmarks.md): Save views and communicate findings from scan data
+- [Compare Tool](https://support.lumafield.com/voyager/voyager-cad-comparison.md): Quantify and visualize deviations between a scan and a CAD model, or between two scans
+- [Crack Detection & Analysis](https://support.lumafield.com/voyager/voyager-crack-detection.md): Use the Crack Detection Tool to identify and analyze cracks, leaks, surface pits, and surface-connected voids.
+- [Custom Slice Planes](https://support.lumafield.com/voyager/voyager-custom-slice.md): View off-normal features of parts
+- [Project Dashboard](https://support.lumafield.com/voyager/voyager-dashboard.md): Open, navigate, and manage Voyager data
+- [Data Objects + Workflows](https://support.lumafield.com/voyager/voyager-data-objects-and-workflows.md): Types of Data Objects and Workflows available in Voyager
+- [Datum Definition](https://support.lumafield.com/voyager/voyager-datums.md): Define Plane, Axis, and Midplane datums on parts and CAD for use in datum reference frames
+- [Direct Dimensions](https://support.lumafield.com/voyager/voyager-direct-dimensions.md): Distance, Angle, and Diameter measurements on extracted features in Dimensioning Mode
+- [Embedded Voyager](https://support.lumafield.com/voyager/voyager-embedded-view.md): Showcase product quality and engineering excellence by embedding your scans into your webpage
+- [Flatness](https://support.lumafield.com/voyager/voyager-flatness.md): GD&T Flatness evaluation on extracted plane features
+- [Getting Around](https://support.lumafield.com/voyager/voyager-getting-around.md): The parts of the Voyager Project Editor
+- [Import Tool](https://support.lumafield.com/voyager/voyager-import.md): Load external Mesh and CAD files into Voyager
+- [Inclusion Analysis](https://support.lumafield.com/voyager/voyager-inclusion-analysis.md): How to use Inclusion Analysis to detect, quantify, and analyze material inclusions, foreign debris, and imperfections in your scans.
+- [Inspection Planes](https://support.lumafield.com/voyager/voyager-inspection-planes.md): Create fixed planes of 3D data to enable 2D measurements
+- [Welcome to Voyager](https://support.lumafield.com/voyager/voyager-intro.md): Lumafield’s platform for CT scan data interaction
+- [ISO-50 Mesh Generation & Dimension Point Snapping](https://support.lumafield.com/voyager/voyager-iso50-dimensioning.md): ISO-50 thresholding and Mesh snapping reduce dimensional uncertainty.
+- [Labs](https://support.lumafield.com/voyager/voyager-labs.md): Explore experimental features and advanced tools in Voyager Labs for cutting-edge analysis capabilities
+- [Labs - 2D Dimensioning](https://support.lumafield.com/voyager/voyager-labs-2d-dimensioning.md): Create feature-based measurements on slices of 3D reconstructions with the 2D Dimensioning Labs App
+- [Labs - ROI Copy & Paste](https://support.lumafield.com/voyager/voyager-labs-copy-paste.md): Copy ROIs between Reconstructions in the same project, or in different projects with the ROI Copy & Paste Tool
+- [Labs - Data Quality Toolkit](https://support.lumafield.com/voyager/voyager-labs-data-quality-toolkit.md): Improve data quality and surface better insights from CT scans
+- [Manager Dashboard](https://support.lumafield.com/voyager/voyager-manager-dashboard.md): Manage Organization members' permissions and access to data
+- [Measurement Tools](https://support.lumafield.com/voyager/voyager-measurement-tools.md): Take line, circle and angle measurements on an Inspection Plane
+- [Mesh Tool](https://support.lumafield.com/voyager/voyager-mesh-tool.md): Extract a surface and prepare a Mesh for use in Voyager or to download
+- [Voyager Modes](https://support.lumafield.com/voyager/voyager-modes.md): Analysis, Dimensioning, and Reporting modes in Voyager 2.0
+- [Multi-Material Meshing](https://support.lumafield.com/voyager/voyager-multi-material-mesh.md): Generate Meshes that separate the materials of a multi-material part
+- [Nominal CAD Import](https://support.lumafield.com/voyager/voyager-nominal-import.md): Upload a .STEP file as the nominal CAD reference for Profile evaluation
+- [On-Prem Project Limits and Storage (Legacy)](https://support.lumafield.com/voyager/voyager-on-prem-storage.md): Understanding storage and Project management within Voyager on your On-Prem system.
+- [Porosity Tool](https://support.lumafield.com/voyager/voyager-porosity-analysis.md): Quantify enclosed volumes of air and other low-attenuation materials
+- [Profile](https://support.lumafield.com/voyager/voyager-profile.md): Full-part and per-feature Profile evaluation against an uploaded CAD model
+- [Region of Interest (ROI)](https://support.lumafield.com/voyager/voyager-region-of-interest.md): What an ROI is, when to use it, and how it improves alignment, resolution, and contrast
+- [Render Tool](https://support.lumafield.com/voyager/voyager-render-tool.md): Create high-quality visualizations of scan data that are easy to share, plug seamlessly into presentations, and enhance marketing assets
+- [Renormalization](https://support.lumafield.com/voyager/voyager-renormalization.md): Extract and expand a specific range of attenuation values with renormalization to perceive greater detail in multi-material scans.
+- [Reverse Engineering Workflow](https://support.lumafield.com/voyager/voyager-reverse-engineering.md): Get your Lumafield data into CAD, fast.
+- [Revolving Slice Planes](https://support.lumafield.com/voyager/voyager-revolving-slice.md): Inspect cylindrical or spherical geometries
+- [Settings](https://support.lumafield.com/voyager/voyager-settings.md): Adjust Project settings and view attributes
+- [Project Sharing](https://support.lumafield.com/voyager/voyager-share-tool.md): Make Project data available to collaborators
+- [Wall Thickness Analysis](https://support.lumafield.com/voyager/voyager-wall-thickness-analysis.md): Measure and evaluate a part’s walled components and structural integrity. Identify defect areas, quantify thickness uniformity, and optimize material usage.
+- [Browser Graphics Optimization for Windows](https://support.lumafield.com/voyager/voyager-windows-graphics.md): Experiencing slow 3D graphics in Voyager? Ensure your Windows PC is fully utilizing its available hardware.
