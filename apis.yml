@@ -10,6 +10,17 @@ description: >-
   cloud, and analytics system rather than a public developer API; this profile catalogs its
   public developer-adjacent surfaces (support/knowledge base, release notes, and an
   llms.txt documentation index) for the API Evangelist network.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
